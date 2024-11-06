@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+# SM2_EXAMEN_PRACTICO
+# Alumno:
+### Josue Joel Villanueva Yucra (2018000722)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Edición de Perfil de Usuario y Gestión de Perfiles de Usuario por Administrador
 
-## Get started
+Este proyecto incluye la implementación de dos historias de usuario para la gestión de perfiles en una aplicación. Las funcionalidades implementadas permiten al usuario editar su perfil y al administrador gestionar los perfiles de usuario.
 
-1. Install dependencies
+### Funcionalidades Implementadas
+1. **Edición de Perfil de Usuario**
+   - Permite al usuario actualizar su información personal y profesional, incluyendo nombre, foto de perfil, contacto y experiencia.
+   - Control de visibilidad sobre diferentes partes del perfil.
+   - Validación y sanitización de datos ingresados por el usuario.
+     
+   ![Image](https://github.com/user-attachments/assets/9e103ba5-2da1-4890-88f3-26d941b99864)
+   
+3. **Gestión de Perfiles por el Administrador**
+   - El administrador puede ver, editar, suspender, eliminar y restaurar cuentas de usuario.
+   - Registro de todas las acciones realizadas en los perfiles de usuario.
+   - Notificación a los usuarios sobre cambios importantes en sus perfiles.
+### Enlace al Prototipo
+   - Puedes acceder al prototipo en Figma para revisar el diseño completo: [Prototipo en Figma](https://www.figma.com/design/dVBsnnxwBQx1VttCwhx8Pa/CconcaPub?t=GFbH8Xx46QA5OqtD-0)
+     
+![Image](https://github.com/user-attachments/assets/881c958a-84d5-48c0-b418-e5426d2acba7)
 
-   ```bash
-   npm install
-   ```
+### Codigo del proyecto:
+![Image](https://github.com/user-attachments/assets/afe774b3-741f-4b44-951a-a1c2a03e5f20)
+### Ejecucion de proyecto
 
-2. Start the app
+![Image](https://github.com/user-attachments/assets/afee3fc9-6645-48ad-a495-ff26d463f807)
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Enlaces y Referencias
+- [Expo](https://expo.dev/) - Plataforma para el desarrollo y despliegue de aplicaciones móviles.
+- [React Native](https://reactnative.dev/) - Framework para construir aplicaciones móviles nativas usando React.
+- [Visualizar el código completo](https://github.com/josue-vy/SM2_EXAMEN_PRACTICO) - Repositorio con el código implementado.
+  
